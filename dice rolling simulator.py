@@ -7,5 +7,6 @@ while key=='yes' or key=='y' :
     print("dice has been rolling .....")
     print("your value is : ",rand)
     key=input("DO YOU WANT TO ROLL AGAIN...")
-print("THANKS FOR ROLLING THE DICE")    
+print("THANKS FOR ROLLING THE DICE") 
+#where is function file
     
